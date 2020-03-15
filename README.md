@@ -4,11 +4,11 @@ Description and datasets of the task in src folder.
 
 ## Getting Started
 
-Python 3.7 procedures written in jupyter notebook Main.ipynb 
+Python 3.7 procedures written in jupyter notebook Main.ipynb.
 
 ### Prerequisites
 
-Required modules in requirements.txt
+Required modules in requirements.txt.
 
 
 ### Installing
@@ -17,7 +17,7 @@ Used conda environment and conda install package.
 
 ## Running the tests
 
-No test needed
+No test needed.
 
 ## Deployment
 
